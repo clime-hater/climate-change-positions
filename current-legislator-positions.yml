@@ -3,9 +3,9 @@
     name: Sherrod Brown
     ocd: ''
   statements:
-  - date: article/press release date
-    proof: url goes here
-    stance: unknown
+  - date: '2009-08-06'
+    proof: 'https://web.archive.org/web/20130312185919/http://www.brown.senate.gov/download/climate-change-and-manufacturing'
+    stance: 'recognition'
 - id:
     bioguide: C000127
     name: Maria Cantwell
