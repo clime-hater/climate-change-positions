@@ -27,25 +27,25 @@
     name: Thomas R. Carper
     ocd: ''
   statements:
-  - date: article/press release date
-    proof: url goes here
-    stance: unknown
+  - date: '2014-05-06'
+    proof: 'https://web.archive.org/web/20141112062555/http://www.carper.senate.gov/public/index.cfm/pressreleases?ID=a5185e9e-04dc-4def-a744-49eacee34e02'
+    stance: 'recognition'
 - id:
     bioguide: C001070
     name: Robert P. Casey, Jr.
     ocd: ''
   statements:
-  - date: article/press release date
-    proof: url goes here
+  - date: '2009-01-28'
+    proof: 'http://www.casey.senate.gov/newsroom/releases/casey-on-climate-change'
     stance: unknown
 - id:
     bioguide: C001071
     name: Bob Corker
     ocd: ''
   statements:
-  - date: article/press release date
-    proof: url goes here
-    stance: unknown
+  - date: 2006-06-03
+    proof: 'https://web.archive.org/web/20141104131850/http://www.corker.senate.gov/public/index.cfm/news?ID=50332279-927a-87f2-e14d-60ed2ac5ed52'
+    stance: 'recognition'
 - id:
     bioguide: F000062
     name: Dianne Feinstein
