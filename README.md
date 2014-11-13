@@ -1,7 +1,7 @@
 climatechangedeniers
 ====================
 
-Repository of elected and appointed officials' positions on anthropogenic climate change. Scientists overwhelmingly agree that humans are causing climate change and that the consequences for human civilization are dire.
+Repository of elected and appointed officials' positions on anthropogenic climate change. Scientists [overwhelmingly agree](http://en.wikipedia.org/wiki/Scientific_opinion_on_climate_change) that humans are causing climate change and that the consequences for human civilization are dire.
 
 The repository allows three possible positions:
 
