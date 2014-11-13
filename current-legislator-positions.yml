@@ -11,17 +11,17 @@
     name: Maria Cantwell
     ocd: ''
   statements:
-  - date: article/press release date
-    proof: url goes here
-    stance: unknown
+  - date: '2010-06-18'
+    proof: 'http://www.washingtonpost.com/wp-dyn/content/article/2010/06/17/AR2010061704564.html'
+    stance: 'recognition'
 - id:
     bioguide: C000141
     name: Benjamin L. Cardin
     ocd: ''
   statements:
-  - date: article/press release date
-    proof: url goes here
-    stance: unknown
+  - date: '2014-04-21'
+    proof: 'http://www.cardin.senate.gov/newsroom/press/release/in-advance-of-earth-day-cardin-says-us-must-take-reasonable-steps-to-combat-climate-change'
+    stance: 'recognition'
 - id:
     bioguide: C000174
     name: Thomas R. Carper
