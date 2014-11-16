@@ -1,0 +1,11 @@
+id:
+  bioguide: A000360
+  name: Lamar Alexander
+  ocd: ''
+statements:
+- climate_change_stances:
+    anthropogenic: boolean
+    exists: boolean
+  date: article/press release date
+  excerpt: quote
+  proof: url goes here

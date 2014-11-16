@@ -1,0 +1,11 @@
+id:
+  bioguide: S001156
+  name: "Linda T. S\xE1nchez"
+  ocd: ''
+statements:
+- climate_change_stances:
+    anthropogenic: boolean
+    exists: boolean
+  date: article/press release date
+  excerpt: quote
+  proof: url goes here

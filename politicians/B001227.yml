@@ -1,0 +1,11 @@
+id:
+  bioguide: B001227
+  name: Robert A. Brady
+  ocd: ''
+statements:
+- climate_change_stances:
+    anthropogenic: boolean
+    exists: boolean
+  date: article/press release date
+  excerpt: quote
+  proof: url goes here
