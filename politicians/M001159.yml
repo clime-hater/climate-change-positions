@@ -1,0 +1,11 @@
+id:
+  bioguide: M001159
+  name: Cathy McMorris Rodgers
+  ocd: ''
+statements:
+- climate_change_stances:
+    anthropogenic: boolean
+    exists: boolean
+  date: article/press release date
+  excerpt: quote
+  proof: url goes here

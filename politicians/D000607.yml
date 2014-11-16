@@ -1,0 +1,11 @@
+id:
+  bioguide: D000607
+  name: Joe Donnelly
+  ocd: ''
+statements:
+- climate_change_stances:
+    anthropogenic: boolean
+    exists: boolean
+  date: article/press release date
+  excerpt: quote
+  proof: url goes here
