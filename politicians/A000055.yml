@@ -1,3 +1,4 @@
+---
 id:
   bioguide: A000055
   name: Robert B. Aderholt
@@ -9,3 +10,10 @@ statements:
   date: article/press release date
   excerpt: quote
   proof: url goes here
+- climate_change_stances:
+    anthropogenic: 'True'
+    exists: 'True'
+  date: '2014-01-14'
+  excerpt: 
+  proof: http://www.wat.org
+  evasive: 'True'
