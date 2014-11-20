@@ -1,11 +1,9 @@
-id:
-  bioguide: A000055
-  name: Robert B. Aderholt
-  ocd: ''
-statements:
-- climate_change_stances:
-    anthropogenic: boolean
-    exists: boolean
-  date: article/press release date
-  excerpt: quote
-  proof: url goes here
+LS0tCmlkOgogIGJpb2d1aWRlOiBBMDAwMDU1CiAgbmFtZTogUm9iZXJ0IEIu
+IEFkZXJob2x0CiAgb2NkOiAnJwpzdGF0ZW1lbnRzOgotIGNsaW1hdGVfY2hh
+bmdlX3N0YW5jZXM6CiAgICBhbnRocm9wb2dlbmljOiBib29sZWFuCiAgICBl
+eGlzdHM6IGJvb2xlYW4KICBkYXRlOiBhcnRpY2xlL3ByZXNzIHJlbGVhc2Ug
+ZGF0ZQogIGV4Y2VycHQ6IHF1b3RlCiAgcHJvb2Y6IHVybCBnb2VzIGhlcmUK
+LSBjbGltYXRlX2NoYW5nZV9zdGFuY2VzOgogICAgYW50aHJvcG9nZW5pYzog
+J1RydWUnCiAgICBleGlzdHM6ICdUcnVlJwogIGRhdGU6ICcyMDE0LTAxLTE0
+JwogIGV4Y2VycHQ6IAogIHByb29mOiBodHRwOi8vd3d3LndhdC5vcmcKICBl
+dmFzaXZlOiAnVHJ1ZScK
